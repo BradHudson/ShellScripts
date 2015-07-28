@@ -14,6 +14,6 @@ else
 fi 
 done;
 
-cd domain-values; powder down && powder up; cd ../consumer-domain; powder down && powder up; cd ../consumer-main; powder down && powder up; 
+
 
 
